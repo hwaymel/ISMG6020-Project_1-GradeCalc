@@ -1,0 +1,10 @@
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\bin\Debug\GradeCalculator_Project_1.exe.config
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\bin\Debug\GradeCalculator_Project_1.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\bin\Debug\GradeCalculator_Project_1.pdb
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\obj\Debug\GradeCalculator_Project_1.csprojAssemblyReference.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\obj\Debug\GradeCalculator_Project_1.frmCalculateGrade.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\obj\Debug\GradeCalculator_Project_1.Properties.Resources.resources
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\obj\Debug\GradeCalculator_Project_1.csproj.GenerateResource.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\obj\Debug\GradeCalculator_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\obj\Debug\GradeCalculator_Project_1.exe
+C:\Users\hwaymel\Dropbox\School\Academic Year_18\.NET Programming\Projects\Project_1\GradeCalculator_Project_1\GradeCalculator_Project_1\obj\Debug\GradeCalculator_Project_1.pdb
